@@ -21,7 +21,6 @@
   - Computer Science for Games Student
   - Experienced in Unreal Engine and Unity
   - Worked on solo projects and group projects in the past
-  - Actively seeking internships or opportunities to gain professional experience in the game development industry.
 
 ---
 
