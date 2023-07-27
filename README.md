@@ -43,4 +43,5 @@
 
 ---
 <!-- MOST USED LANGUAGES WIDGET -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcHansen2002&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarcHansen2002&theme=ambient-gradient&hide_border=true&date_format=j%2Fn%5B%2FY%5D&stroke=373737)](https://git.io/streak-stats)
+
